@@ -9,19 +9,19 @@ The site focuses on **real decision-making factors** such as affordability, admi
 
 ## Key Features
 
-- 🔍 **University search & filtering**
+- **University search & filtering**
   - Filter by state, cost, admission rate, student size, and outcomes
-- 🏫 **Program exploration**
+- **Program exploration**
   - Browse and compare academic programs across universities
-- 📊 **Clear comparisons**
+- **Clear comparisons**
   - View acceptance rate, net price, and student outcomes side-by-side
-- 🧭 **Multi-page navigation**
+- **Multi-page navigation**
   - Universities, Programs, and Resources sections
 - **Responsive design**
   - Optimized for desktop, tablet, and mobile browsers
 - **Consistent design system**
   - Custom global styles with modern UI components
-- 💾 **Local state management**
+- **Local state management**
   - Save selections and preferences during browsing
 
 ---
