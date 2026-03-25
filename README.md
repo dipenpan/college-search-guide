@@ -1,6 +1,6 @@
 # 🎓 College Search Guide
 
-A modern, responsive college search and comparison web application built with React — designed to help international students navigate U.S. higher education and find the right university fit.
+A modern, responsive college search and comparison web application built with React, designed to help international students navigate U.S. higher education and find the right university fit.
 
 ---
 
@@ -12,7 +12,7 @@ A modern, responsive college search and comparison web application built with Re
 
 ## 📌 Overview
 
-Built to solve a real problem — helping international students who lack guidance navigating thousands of U.S. universities. This app integrates the College Scorecard API with dynamic filtering, side-by-side comparison, and PDF export to make the college search process faster and more informed.
+Built to solve a real problem helping international students who lack guidance navigating thousands of U.S. universities. This app integrates the College Scorecard API with dynamic filtering, side-by-side comparison, and PDF export to make the college search process faster and more informed.
 
 > This project directly helped **13 Nepali students secure full-ride scholarships** by providing curated university data and personalized search tools.
 
